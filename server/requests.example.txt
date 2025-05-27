@@ -1,0 +1,36 @@
+curl -X GET http://localhost:5000/api/v1/account
+
+curl -X GET "http://localhost:5000/api/v1/statement?start_date=2024-07-01&end_date=2024-07-31"
+
+curl -X POST http://localhost:5000/api/v1/login -H "Content-Type: application/json" -d '{
+  "login": "12345678",
+  "password": "your_password",
+  "server": "your_server",
+  "other_accounts": false
+}'
+
+curl -X GET http://localhost:5000/api/v1/trade
+
+curl -X GET http://localhost:5000/api/v1/status
+
+curl -X GET http://localhost:5000/api/v1/strategy
+
+curl -X GET http://localhost:5000/api/v1/servers
+
+curl -X GET http://localhost:5000/api/v1/accounts
+
+curl -X GET http://localhost:5000/api/v1/auto/trade
+
+curl -X GET http://localhost:5000/api/v1/auto/end-trade
+
+curl -X GET http://localhost:5000/api/v1/auto/force-end-trade
+
+curl -X GET http://localhost:5000/api/v1/auto/test/auto-predict
+
+curl -X GET http://localhost:5000/api/v1/auto/test/end-predict
+
+curl -X POST "http://localhost:5000/api/v1/auto/add-time?st=09:00&et=10:00"
+
+curl -X GET http://localhost:5000/api/v1/auto/clear-time
+
+curl -X GET http://localhost:5000/main/

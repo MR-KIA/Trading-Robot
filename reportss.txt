@@ -1,0 +1,19 @@
+Reconnecting to server for symbol: AUDUSD
+Connected to server: TerminalInfo(community_account=False, community_connection=False, connected=True, dlls_allowed=False, trade_allowed=False, tradeapi_disabled=False, email_enabled=False, ftp_enabled=False, notifications_enabled=False, mqid=True, build=4468, maxbars=100000, codepage=0, ping_last=148765, community_balance=0.0, retransmission=0.5138452754781616, company='MetaQuotes Ltd.', name='MetaTrader 5', language='English', path='C:\\Program Files\\MetaTrader 5', data_path='C:\\Users\\Behdad\\AppData\\Roaming\\MetaQuotes\\Terminal\\D0E8209F77C8CF37AD8BF550E51FF075', commondata_path='C:\\Users\\Behdad\\AppData\\Roaming\\MetaQuotes\\Terminal\\Common')
+0.667670813722044
+0.66596 0.66582
+0.6660783709032392
+True True
+Order1 failed, retcode=10027
+Reconnecting to server for symbol: AUDUSD
+Connected to server: TerminalInfo(community_account=False, community_connection=False, connected=True, dlls_allowed=False, trade_allowed=False, tradeapi_disabled=False, email_enabled=False, ftp_enabled=False, notifications_enabled=False, mqid=True, build=4468, maxbars=100000, codepage=0, ping_last=148765, community_balance=0.0, retransmission=0.5138452754781616, company='MetaQuotes Ltd.', name='MetaTrader 5', language='English', path='C:\\Program Files\\MetaTrader 5', data_path='C:\\Users\\Behdad\\AppData\\Roaming\\MetaQuotes\\Terminal\\D0E8209F77C8CF37AD8BF550E51FF075', commondata_path='C:\\Users\\Behdad\\AppData\\Roaming\\MetaQuotes\\Terminal\\Common')
+Reconnecting to server for symbol: AUDUSD
+Connected to server: TerminalInfo(community_account=False, community_connection=False, connected=True, dlls_allowed=False, trade_allowed=False, tradeapi_disabled=False, email_enabled=False, ftp_enabled=False, notifications_enabled=False, mqid=True, build=4468, maxbars=100000, codepage=0, ping_last=148765, community_balance=0.0, retransmission=0.5138452754781616, company='MetaQuotes Ltd.', name='MetaTrader 5', language='English', path='C:\\Program Files\\MetaTrader 5', data_path='C:\\Users\\Behdad\\AppData\\Roaming\\MetaQuotes\\Terminal\\D0E8209F77C8CF37AD8BF550E51FF075', commondata_path='C:\\Users\\Behdad\\AppData\\Roaming\\MetaQuotes\\Terminal\\Common')
+0.667670813722044
+0.66382 0.66371
+0.6660783709032392
+True True
+Order1 failed, retcode=10027 
+Reconnecting to server for symbol: AUDUSD
+Connected to server: TerminalInfo(community_account=False, community_connection=False, connected=True, dlls_allowed=False, trade_allowed=True, tradeapi_disabled=False, email_enabled=False, ftp_enabled=False, notifications_enabled=False, mqid=True, build=4468, maxbars=100000, codepage=0, ping_last=146948, community_balance=0.0, retransmission=3.080714725816389, company='MetaQuotes Ltd.', name='MetaTrader 5', language='English', path='C:\\Program Files\\MetaTrader 5', data_path='C:\\Users\\Behdad\\AppData\\Roaming\\MetaQuotes\\Terminal\\D0E8209F77C8CF37AD8BF550E51FF075', commondata_path='C:\\Users\\Behdad\\AppData\\Roaming\\MetaQuotes\\Terminal\\Common')
+Initialize() failed, error code = (-6, 'Terminal: Authorization failed')

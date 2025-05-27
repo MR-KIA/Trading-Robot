@@ -1,0 +1,31 @@
+{
+    "accounts": [
+        {
+            "login": 6633926,
+            "password": "6tG!WtXa",
+            "server": "AMarkets-Demo"
+        },
+        {
+            "login": 187004,
+            "password": "k!e9abU0",
+            "server": "AronMarkets-Demo"
+        },
+        {
+            "login": 6859719,
+            "password": "6!MyBeMg",
+            "server": "AMarkets-Demo"
+        },
+        {
+            "login": 1510001032,
+            "password": "c$J@Fg!4Mc?Uib",
+            "server": "FTMO-Demo"
+        },
+
+        {
+            "login": 1520429513,
+            "password": "1T1I22w@q!Q7z",
+            "server": "FTMO-Demo2"
+        }
+    ],
+    "red-times": []
+}

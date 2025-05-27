@@ -1,0 +1,149 @@
+<<<<<<< HEAD
+server = AMarkets-Demo
+login = 6637132
+password = 4rQqLaL@
+
+
+server
+    ## make the prediction endpoint automatic           [X]
+    ## log the predictions and true values              [X]
+    ## plot the log file                                [X]
+    ## complete trade function                          [ ]  1 day
+    set strategies for trade                            [ ]  1 day
+    set controllers                                     [ ]  2 days
+    set security                                        [ ]  4 days
+    back test, forth test								[ ]  7 days
+
+
+AI
+    change timeframe                                    [ ]
+    change the data interval                            [ ]
+    generate features (price_delta, etc)                [ ]
+    change the data features (quantower)                [ ]
+    intercept the predictions and true values           [X]
+    change the model (XGBRegressor)                     [ ]
+    make another model to carry out predictions on 
+    the result of previous prediction                   [ ]
+    
+    
+    
+v1: 	
+	basic functionality
+	able to trade automatically
+	without AI (using strategy)
+	only works for insiders accounts
+	admin panel for manual control
+	single pair of currencies (GBPUSD)
+	
+	expectations: 
+		margin per account = 100,000 --> 0.5% per day | 1 lot | R/R 12 | 35% 35,000 in first 	month
+		  
+		
+v2:
+	AI integrated with strategies (optimize strategies parameters)
+	license system
+	with higher accuracy
+	windows application (for more manual access)
+	able to work with multiple pairs of currencies
+	
+	expectation:
+		margin per account = 500,000 --> 2% per day | 2 lot | R/R 18 | 81% 405,000 in second month
+	
+	
+v3:
+	fandumental analysis 
+	speech control with ai speech model
+	
+	expectation:
+		margin per account = 1,000,000 --> 4% per day | 2 lot | R/R 20 | 224% 2,250,000 in second month
+		
+		
+	average = 15M a year 
+	
+	
+
+
+
+
+
+
+
+
+
+
+	
+=======
+server = AMarkets-Demo
+login = 6637132
+password = 4rQqLaL@
+
+
+server
+    ## make the prediction endpoint automatic           [X]
+    ## log the predictions and true values              [X]
+    ## plot the log file                                [X]
+    ## complete trade function                          [ ]  1 day
+    set strategies for trade                            [ ]  1 day
+    set controllers                                     [ ]  2 days
+    set security                                        [ ]  4 days
+    back test, forth test				[ ]  2 days
+
+
+AI
+    change timeframe                                    [ ]
+    change the data interval                            [ ]
+    generate features (price_delta, etc)                [ ]
+    change the data features (quantower)                [ ]
+    intercept the predictions and true values           [X]
+    change the model (XGBRegressor)                     [ ]
+    make another model to carry out predictions on 
+    the result of previous prediction                   [ ]
+    
+    
+    
+v1: 	
+	basic functionality
+	able to trade automatically
+	without AI (using strategy)
+	only works for insiders accounts
+	admin panel for manual control
+	single pair of currencies (GBPUSD)
+	
+	expectations: 
+		margin per account = 100,000 --> 0.5% per day | 1 lot | R/R 12 | 35% 35,000 in first 	month
+		  
+		
+v2:
+	AI integrated with strategies (optimize strategies parameters)
+	license system
+	with higher accuracy
+	windows application (for more manual access)
+	able to work with multiple pairs of currencies
+	
+	expectation:
+		margin per account = 500,000 --> 2% per day | 2 lot | R/R 18 | 81% 405,000 in second month
+	
+	
+v3:
+	fandumental analysis 
+	speech control with ai speech model
+	
+	expectation:
+		margin per account = 1,000,000 --> 4% per day | 2 lot | R/R 20 | 224% 2,250,000 in second month
+		
+		
+	average = 15M a year 
+	
+	
+
+
+
+
+
+
+
+
+
+
+	
+>>>>>>> 4d39ed283eed23595d41cca333a3b07865389fa5

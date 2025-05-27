@@ -1,0 +1,4 @@
+predict --> GET --> prediction of the price using machine learning model 
+live_price --> GET --> get the live market price 
+prepare_initial_prices --> GET
+
